@@ -45,7 +45,7 @@ def main():
     #demo_local_variable()
     #demo_global_variable()
     #print(name)
-    #demo_arithmetic()
+    demo_arithmetic()
     #demo_function_calls()
 
 if __name__ == "__main__":
